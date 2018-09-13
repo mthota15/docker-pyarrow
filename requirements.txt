@@ -1,6 +1,9 @@
+json2parquet
+confluent-kafka
+python-snappy
 pyarrow
 s3fs
 boto3
 pandas
-fastparquet
-python-snappy
+ujson
+ciso8601
